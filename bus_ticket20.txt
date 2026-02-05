@@ -1,0 +1,13 @@
+------------------------------------------
+             BUS TICKET                   
+------------------------------------------
+BUS NO :AB7181-R
+TICKET NO:20
+SEAT NUMBER :A1,A2,
+FROM :MAHESANA
+TO :AHEMDABAD
+TIME :15:00:00
+DATE :2025-08-21
+PRICE :320.0
+NAME :VISMAY
+MOBILE No :9876543219

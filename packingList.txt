@@ -1,0 +1,6 @@
+     PACKAGING LIST   
+     ----------------
+1 : PASSPORT
+2 : TICKETS
+3 : BAGS
+4 : SWTERS

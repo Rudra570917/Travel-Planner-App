@@ -1,0 +1,13 @@
+  ------------------------------------------
+               TRAIN TICKET                 
+--------------------------------------------
+  TRAIN NAME :Goa Express
+  TICKET NO:2
+  SEAT NUMBER :B15,
+  FROM :Mumbai
+  TO :Goa
+  TIME :09:30:00
+  DATE :2025-08-21
+  PRICE :1800.0
+  NAME :MIT
+  MOBILE No :9876543212

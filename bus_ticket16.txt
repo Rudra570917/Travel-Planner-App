@@ -1,0 +1,13 @@
+------------------------------------------
+             BUS TICKET                   
+------------------------------------------
+BUS NO :DL-MN-001
+TICKET NO:16
+SEAT NUMBER :A12,
+FROM :DELHI
+TO :MANALI
+TIME :06:00:00
+DATE :2025-08-21
+PRICE :1080.0
+NAME :1
+MOBILE No :9876543212

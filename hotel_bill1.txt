@@ -1,0 +1,6 @@
+---------------GOA BEACH RESORT--------------
+USER NAME :MIT
+STAY FOR :FULLDAY
+ROOM BOOKED :2
+TOTAL AMOUNT :16000.0
+ADDRESS :Calangute Beach Road, Calangute, Goa 403516

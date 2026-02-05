@@ -1,0 +1,13 @@
+  ------------------------------------------
+               TRAIN TICKET                 
+--------------------------------------------
+  TRAIN NAME :Goa Express
+  TICKET NO:4
+  SEAT NUMBER :D14,
+  FROM :Mumbai
+  TO :Goa
+  TIME :09:30:00
+  DATE :2025-08-20
+  PRICE :1800.0
+  NAME :AADI
+  MOBILE No :9876543213

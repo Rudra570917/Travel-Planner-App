@@ -1,0 +1,13 @@
+------------------------------------------
+             BUS TICKET                   
+------------------------------------------
+BUS NO :AS-1234
+TICKET NO:21
+SEAT NUMBER :A4,A5,A6,
+FROM :AHEMDABAD
+TO :PATAN
+TIME :11:00:00
+DATE :2025-08-21
+PRICE :750.0
+NAME :MITUL
+MOBILE No :9867543215
